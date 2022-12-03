@@ -10,10 +10,10 @@ Da questo nasce MENA (Management and Engineering Newcomers Assistant).
 
 
 ## Installazione
-Per installare il Bot sul proprio dispositivo basta copiare la repository e creare un file chiamato
+Per installare il Bot sul proprio dispositivo basta copiare la repository e modificare il file chiamato
 "Costanti.py"
 
-Questo file deve essere strutturato in questo modo
+Questo file è essere strutturato in questo modo
 
 ```
 API_KEY = 'la chiave API che ti fornisce BotFather quando crei il bot'
@@ -21,7 +21,7 @@ USER = 'Il tuo User del server MySql'
 PASSWORD = 'La tua Password del server MySql'
 ```
 
-Una volta creato questo file è possibile creare le tabelle SQL attraverso il file "Dump_DB.sql" contenuto nella 
+Una volta modificato questo file è possibile creare le tabelle SQL attraverso il file "Dump_DB.sql" contenuto nella 
 folder "DumpSQL".
 
 Si consiglia PyCharm come IDE in quanto quello utilizzato per creare e scrivere il progetto.
