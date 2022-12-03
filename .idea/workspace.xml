@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7a1d35e-ed4e-442a-837a-fd8002cc0a5c" name="Changes" comment="" />
+    <list default="true" id="a7a1d35e-ed4e-442a-837a-fd8002cc0a5c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Costanti.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
